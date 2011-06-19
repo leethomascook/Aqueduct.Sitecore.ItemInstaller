@@ -1,0 +1,15 @@
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Aqueduct.SitecorePackageInstaller.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Aqueduct.SitecorePackageInstaller.pdb
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Client.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Kernel.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Logging.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\sitecore.nexus.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Update.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Analytics.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.NVelocity.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Zip.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Client.xml
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\bin\Debug\Sitecore.Kernel.xml
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\obj\Debug\Aqueduct.SitecorePackageInstaller.dll
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageInstaller\obj\Debug\Aqueduct.SitecorePackageInstaller.pdb
