@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="35480CB1-8759-44A8-BA40-3FE257444E72" ModuleId="Aqueduct.SitecorePackageInstaller" />
+  <Module PersistentId="F6CDC150-83B5-4182-BF09-2F8CDF78B49A" ModuleId="Aqueduct.SitecorePackageConsoleApp" />
 </Modules>
