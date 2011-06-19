@@ -1,7 +1,7 @@
 C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\Aqueduct.SitecorePackageConsoleApp.dll.config
-C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\Aqueduct.SitecorePackageConsoleApp.dll
 C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\Aqueduct.SitecorePackageConsoleApp.pdb
 C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\NDesk.Options.dll
-C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\obj\Debug\Aqueduct.SitecorePackageConsoleApp.dll
 C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\obj\Debug\Aqueduct.SitecorePackageConsoleApp.pdb
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\Aqueduct.SitecorePackageConsoleApp.exe.config
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\bin\Debug\Aqueduct.SitecorePackageConsoleApp.exe
+C:\Projects\Aqueduct.SitecorePackageInstaller\Aqueduct.SitecorePackageConsoleApp\obj\Debug\Aqueduct.SitecorePackageConsoleApp.exe
