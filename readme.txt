@@ -1,0 +1,1 @@
+Some of this was "borrowed" from the excelent http://www.hhogdev.com/Products/Team-Development-for-Sitecore
